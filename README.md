@@ -14,5 +14,5 @@ Read more [Magento Multi Vendor Marketplace](https://www.magebay.com/magento-mul
 - Allow Seller can sort to display each Flat Rate shipping
 - Separate shipping method on the checkout page for each Vendor
 
-Please let us know if you have any questions by submitting the issues. or [Contact us](https://www.magebay.com/about-us/)
+Please let us know if you have any questions by submitting the issues or [Contact us](https://www.magebay.com/about-us/)
 
