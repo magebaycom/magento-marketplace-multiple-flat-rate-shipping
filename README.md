@@ -1,5 +1,5 @@
-# Magento Marketplace Multiple Flat Rate Shipping
-Magento 2 Marketplace Multiple Flat Rate Shipping is a plugin of Magebay Multi Vendor Marketplace Extension for Magento 2. It helps Vendor can easy to create their shipping method and visible this shipping method on the checkout page. The customers can choose the shipping method of the vendor's product.
+# Magento Marketplace Multiple Flat Rate Shipping Extension
+Magento 2 Marketplace Multiple Flat Rate Shipping Extension is a plugin of Magebay Multi Vendor Marketplace Extension for Magento 2. It helps Vendor can easy to create their shipping method and visible this shipping method on the checkout page. The customers can choose the shipping method of the vendor's product.
 
 Read more [Magento Marketplace Multiple Flat Rate Shipping](https://www.magebay.com/magento-marketplace-multiple-flat-rate-shipping)
 
