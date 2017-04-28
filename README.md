@@ -3,7 +3,7 @@ Magento 2 Marketplace Multiple Flat Rate Shipping Extension is a plugin of Mageb
 
 Read more [Magento Marketplace Multiple Flat Rate Shipping](https://www.magebay.com/magento-marketplace-multiple-flat-rate-shipping)
 
-Read more [Magento Multi Vendor Marketplace](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
+Read more Magebay Multi Vendor: [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
 ## Features of Marketplace Flat Rate Shipping for Magento 2
 - Allow Seller can create new flat rate shipping method
@@ -14,5 +14,7 @@ Read more [Magento Multi Vendor Marketplace](https://www.magebay.com/magento-mul
 - Allow Seller can sort to display each Flat Rate shipping
 - Separate shipping method on the checkout page for each Vendor
 
-Please let us know if you have any questions by submitting the issues or [Contact us](https://www.magebay.com/about-us/)
+Please let us know if you have any questions by submitting the issues.
+
+Related plugins: [Magento Marketplace Vendor Vacation Extension](https://github.com/magebaycom/magento-marketplace-vendor-vacation)
 
